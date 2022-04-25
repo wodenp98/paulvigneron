@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript and tailwind**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/354bf8ff5e0f44f8ba578499f597e1c2?v=4d791e205f314e3988a464ce91c5d514](https://www.notion.so/354bf8ff5e0f44f8ba578499f597e1c2?v=4d791e205f314e3988a464ce91c5d514)
+- 👨‍💻 All of my projects are available at [https://bit.ly/paulvigneron](https://www.notion.so/354bf8ff5e0f44f8ba578499f597e1c2?v=4d791e205f314e3988a464ce91c5d514)
 
 - 💬 Ask me about **Javascript, React, Html / CSS**
 
