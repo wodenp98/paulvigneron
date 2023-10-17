@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript and tailwind**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/paulvigneron](https://bit.ly/paulvigneron)
+- 👨‍💻 All of my projects are available at [https://bit.ly/paulvigneron](https://nextjs-portfolio-paulvigneron.vercel.app/)
 
 - 💬 Ask me about **Javascript, React, Html / CSS**
 
